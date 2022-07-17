@@ -1,0 +1,9 @@
+{
+  "javascript.suggest.classMemberSnippets.enabled": false,
+  "javascript.suggest.jsdoc.generateReturns": false,
+  "javascript.suggest.names": false,
+  "javascript.suggest.paths": false,
+  "js/ts.implicitProjectConfig.module": "ES6",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file"
+}
